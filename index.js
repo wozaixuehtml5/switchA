@@ -10,7 +10,7 @@ exports.switchA = {
       ...{
       id:'root',
       activeColor:'#1D80D1',
-      visitedColor:'#8C8C8C',
+      visitedColor:'#8C8C8C', 
       data:'value',
       onChange:()=>{}
     },...op}
