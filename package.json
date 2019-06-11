@@ -1,6 +1,6 @@
 {
-  "name": "@zzzzzzzzz/switcha",
-  "version": "1.0.1",
+  "name": "switcha",
+  "version": "1.0.0",
   "description": "快速切换A标签",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wozaixuehtml5/switchA.git"
+    "url": "git+https://github.com/wozaixuehtml5/switchA.git"
   },
   "keywords": [
     "switchA"
